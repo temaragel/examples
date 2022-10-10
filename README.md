@@ -29,3 +29,5 @@ Returns: 10 product names whose producer contains the specified string, ordered 
    
         return ShopImpl;
       }());
+
+My solusion - shop.js
